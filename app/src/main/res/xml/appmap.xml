@@ -1,16 +1,130 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <appmap>
-
-    <!-- FOR ATOM LAUNCHER -->
-
-    <!-- Chrome & Chrome Beta -->
-    <item
-        class="com.google.android.apps.chrome.Main"
-        name="chrome" />
-
-    <!--  Antutu Benchmark -->
-    <item
-        class="com.antutu.ABenchMark.ABenchMarkStart"
-        name="antutu_benchmark" />
-
+    <item class="com.whatsapp" name="whatsapp_dark_blue2"/>
+    <item class="com.whatsapp.w4b" name="whatsapp_dark_blue2"/>
+    <item class="org.telegram.messenger" name="telegram_dark_blue2"/>
+    <item class="org.telegram.messenger" name="telegram_dark_blue2"/>
+    <item class="com.facebook.orca" name="fb_messenger_dark_blue2"/>
+    <item class="com.facebook.orca" name="fb_messenger_dark_blue2"/>
+    <item class="com.coloros.phonemanager" name="phone_dark_blue2"/>
+    <item class="com.android.dialer" name="phone_dark_blue2"/>
+    <item class="com.oppo.dialer" name="phone_dark_blue2"/>
+    <item class="com.coloros.dialer" name="phone_dark_blue2"/>
+    <item class="com.android.contacts" name="contacts_dark_blue2"/>
+    <item class="com.coloros.contacts" name="contacts_dark_blue2"/>
+    <item class="com.zhiliaoapp.musically" name="tiktok_dark_blue2"/>
+    <item class="com.zhiliaoapp.musically" name="tiktok_dark_blue2"/>
+    <item class="tv.twitch.android.app" name="twitch_dark_blue2"/>
+    <item class="com.discord" name="discord_dark_blue2"/>
+    <item class="com.discord" name="discord_dark_blue2"/>
+    <item class="com.reddit.frontpage" name="reddit_dark_blue2"/>
+    <item class="com.reddit.frontpage" name="reddit_dark_blue2"/>
+    <item class="com.twitter.android" name="x_dark_blue2"/>
+    <item class="com.twitter.android" name="x_dark_blue2"/>
+    <item class="com.instagram.barcelona" name="threads_dark_blue2"/>
+    <item class="com.netflix.mediaclient" name="netflix_dark_blue2"/>
+    <item class="com.netflix.mediaclient" name="netflix_dark_blue2"/>
+    <item class="com.spotify.music" name="spotify_light_blue2"/>
+    <item class="com.spotify.music" name="spotify_light_blue2"/>
+    <item class="com.google.android.youtube" name="utube_dark_blue2"/>
+    <item class="com.google.android.youtube" name="utube_dark_blue2"/>
+    <item class="com.google.android.apps.youtube.music" name="utube_music_dark_blue2"/>
+    <item class="com.crunchyroll.crunchyroid" name="crunchy_roll_dark_blue2"/>
+    <item class="com.android.chrome" name="google_chrome_dark_blue2"/>
+    <item class="com.chrome.beta" name="google_chrome_dark_blue2"/>
+    <item class="com.google.android.gm" name="google_mail_dark_blue2"/>
+    <item class="com.google.android.gm" name="google_mail_dark_blue2"/>
+    <item class="com.google.android.apps.maps" name="google_maps_dark_blue2"/>
+    <item class="com.google.android.apps.maps" name="google_maps_dark_blue2"/>
+    <item class="com.google.android.apps.docs" name="google_drive_dark_blue2"/>
+    <item class="com.google.android.apps.photos" name="google_photos_dark_blue2"/>
+    <item class="com.google.android.apps.docs.editors.docs" name="google_documents_dark_blue2"/>
+    <item class="com.google.android.apps.meetings" name="google_meets_dark_blue2"/>
+    <item class="com.google.android.apps.meetings" name="google_meets_dark_blue2"/>
+    <item class="com.google.android.googlequicksearchbox" name="google_dark_blue2"/>
+    <item class="com.google.android.googlequicksearchbox" name="google_dark_blue2"/>
+    <item class="com.google.android.apps.translate" name="google_translate_dark_blue2"/>
+    <item class="com.android.vending" name="app_store_dark_blue2"/>
+    <item class="com.android.vending" name="app_store_dark_blue2"/>
+    <item class="com.android.settings" name="settings_dark_blue2"/>
+    <item class="com.coloros.settings" name="settings_dark_blue2"/>
+    <item class="com.oplus.settings" name="settings_dark_blue2"/>
+    <item class="com.coloros.calculator" name="calculator_dark_blue2"/>
+    <item class="com.android.calculator2" name="calculator_dark_blue2"/>
+    <item class="com.oplus.calculator" name="calculator_dark_blue2"/>
+    <item class="com.coloros.calendar" name="calender_dark_blue2"/>
+    <item class="com.android.calendar" name="calender_dark_blue2"/>
+    <item class="com.oplus.calendar" name="calender_dark_blue2"/>
+    <item class="com.coloros.alarmclock" name="clock_dark_blue2"/>
+    <item class="com.android.deskclock" name="clock_dark_blue2"/>
+    <item class="com.oplus.alarmclock" name="clock_dark_blue2"/>
+    <item class="com.coloros.clock" name="clock_dark_blue2"/>
+    <item class="com.oppo.camera" name="camera_dark_blue2"/>
+    <item class="com.coloros.camera" name="camera_dark_blue2"/>
+    <item class="com.oplus.camera" name="camera_dark_blue2"/>
+    <item class="com.coloros.filemanager" name="files_dark_blue2"/>
+    <item class="com.android.documentsui" name="files_dark_blue2"/>
+    <item class="com.oplus.filemanager" name="files_dark_blue2"/>
+    <item class="com.google.android.apps.nbu.files" name="files_dark_blue2"/>
+    <item class="com.coloros.safecenter" name="password_dark_blue2"/>
+    <item class="com.oplus.safecenter" name="password_dark_blue2"/>
+    <item class="com.coloros.note" name="notes_dark_blue2"/>
+    <item class="com.oplus.note" name="notes_dark_blue2"/>
+    <item class="com.google.android.keep" name="notes_dark_blue2"/>
+    <item class="com.coloros.weather2" name="weather_dark_blue2"/>
+    <item class="com.oplus.weather" name="weather_dark_blue2"/>
+    <item class="com.coloros.weather" name="weather_dark_blue2"/>
+    <item class="com.coloros.compass2" name="compass_dark_blue2"/>
+    <item class="com.oplus.compass" name="compass_dark_blue2"/>
+    <item class="com.coloros.musicfree" name="music_dark_blue2"/>
+    <item class="com.oplus.music" name="music_dark_blue2"/>
+    <item class="com.coloros.gallery3d" name="photo_dark_blue2"/>
+    <item class="com.oplus.gallery3d" name="photo_dark_blue2"/>
+    <item class="com.google.android.apps.walletnfcrel" name="wallet_dark_blue2"/>
+    <item class="com.coloros.wallet" name="wallet_dark_blue2"/>
+    <item class="com.coloros.soundrecorder" name="voice_memo_dark_blue2"/>
+    <item class="com.oplus.soundrecorder" name="voice_memo_dark_blue2"/>
+    <item class="com.google.android.apps.books" name="book_dark_blue2"/>
+    <item class="com.coloros.bookstore" name="book_dark_blue2"/>
+    <item class="com.amazon.mShop.android.shopping" name="amazon_dark_blue2"/>
+    <item class="com.amazon.mShop.android" name="amazon_dark_blue2"/>
+    <item class="com.einnovation.temu" name="temu_dark_blue2"/>
+    <item class="com.aliexpress.international" name="alipay_dark_blue2"/>
+    <item class="com.aliexpress.international" name="alipay_dark_blue2"/>
+    <item class="com.paypal.android.p2pmobile" name="paypal_dark_blue2"/>
+    <item class="com.cashi.cashi" name="cashback_dark_blue2"/>
+    <item class="com.squareup.cash" name="cashapp_dark_blue2"/>
+    <item class="com.mercadopago.wallet" name="cashapp_dark_blue2"/>
+    <item class="com.mercadolibre" name="cashapp_dark_blue2"/>
+    <item class="mx.com.satmovil.sat" name="banking_dark_blue2"/>
+    <item class="com.nu.production" name="banking_dark_blue2"/>
+    <item class="com.coppel.app" name="banking_dark_blue2"/>
+    <item class="com.ubercab" name="uber_dark_blue2"/>
+    <item class="com.ubercab" name="uber_dark_blue2"/>
+    <item class="com.ado.app" name="transport_dark_blue2"/>
+    <item class="mx.com.ado" name="transport_dark_blue2"/>
+    <item class="mx.com.cfe.contigo" name="tips_dark_blue2"/>
+    <item class="com.microsoft.teams" name="teams_dark_blue2"/>
+    <item class="com.microsoft.teams" name="teams_dark_blue2"/>
+    <item class="com.google.android.apps.translate" name="translate_dark_blue2"/>
+    <item class="com.microsoft.translator" name="translate_dark_blue2"/>
+    <item class="com.openai.chatgpt" name="chat_gpt_dark_blue2"/>
+    <item class="com.google.android.apps.bard" name="chat_gpt_dark_blue2"/>
+    <item class="ai.grok" name="chat_gpt_dark_blue2"/>
+    <item class="com.anthropic.claude" name="chat_gpt_dark_blue2"/>
+    <item class="com.deepl.mobiletranslator" name="chat_gpt_dark_blue2"/>
+    <item class="com.burgerking.app.mx" name="food_dark_blue2"/>
+    <item class="com.mihoyo.hyp" name="hoyolab_dark_blue2"/>
+    <item class="com.miHoYo.GenshinImpact" name="hoyolab_dark_blue2"/>
+    <item class="com.HoYoverse.GenshinImpactpc" name="hoyolab_dark_blue2"/>
+    <item class="com.miHoYo.bh3global" name="honkai_dark_blue2"/>
+    <item class="com.mihoyo.starrail" name="honkai_dark_blue2"/>
+    <item class="com.valvesoftware.android.steam.community" name="gaming_dark_blue2"/>
+    <item class="com.epicgames.portal" name="gaming_dark_blue2"/>
+    <item class="com.battle.net" name="gaming_dark_blue2"/>
+    <item class="com.nintendo.znca" name="switch_online_dark_blue2"/>
+    <item class="com.nianticlabs.pokemongo" name="pokemon_dark_blue2"/>
+    <item class="com.nianticlabs.pokemongo" name="pokemon_dark_blue2"/>
+    <item class="com.activision.callofduty.shooter" name="gaming_dark_blue3"/>
+    <item class="com.mobile.legends" name="gaming_dark_blue3"/>
 </appmap>
